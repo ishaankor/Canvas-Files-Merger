@@ -1,7 +1,7 @@
 
-# PDF Merger for Canvas Items
+# PDF Merger for Canvas Files
 
-A Python script to collect, organize, and merge lecture notes from Canvas into a single PDF file.
+A Python script to collect, organize, and merge files from Canvas classes/modules into a singular PDF file.
 
 ## Features
 - Fetch lecture notes dynamically from Canvas.
