@@ -17,8 +17,8 @@ A Python script to collect, organize, and merge files from Canvas classes/module
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/notes-synthesizer.git
-   cd notes-synthesizer
+   git clone https://github.com/ishaankor/canvas-files-merger.git
+   cd canvas-files-merger
    ```
 
 2. Install dependencies:
