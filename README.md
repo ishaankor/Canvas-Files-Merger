@@ -1,5 +1,5 @@
 
-# Notes Synthesizer
+# PDF Merger for Canvas Items
 
 A Python script to collect, organize, and merge lecture notes from Canvas into a single PDF file.
 
