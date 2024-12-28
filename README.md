@@ -42,7 +42,7 @@ A Python script to collect, organize, and merge files from Canvas classes/module
 
 4. Run the script:
    ```bash
-   python notes_synthesizer_dynamic.py
+   python notes_synthesizer.py
    ```
 
 ## License
